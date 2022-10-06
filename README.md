@@ -7,3 +7,5 @@
 * Что такое Git
 * Что такое GitHub
 * Что такое Markdown
+* Что такое Commit
+
